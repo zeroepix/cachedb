@@ -1,0 +1,1 @@
+This directory stores the log files for cachedb. This file really only exists to create the folder so if you clone, it runs properly. Logs are ignored by git.
